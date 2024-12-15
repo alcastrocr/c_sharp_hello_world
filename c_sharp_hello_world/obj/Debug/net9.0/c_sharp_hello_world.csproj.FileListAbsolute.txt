@@ -1,0 +1,14 @@
+/Users/elcapi/Dev Projects/c_sharp_hello_world/c_sharp_hello_world/c_sharp_hello_world/bin/Debug/net9.0/c_sharp_hello_world
+/Users/elcapi/Dev Projects/c_sharp_hello_world/c_sharp_hello_world/c_sharp_hello_world/bin/Debug/net9.0/c_sharp_hello_world.deps.json
+/Users/elcapi/Dev Projects/c_sharp_hello_world/c_sharp_hello_world/c_sharp_hello_world/bin/Debug/net9.0/c_sharp_hello_world.runtimeconfig.json
+/Users/elcapi/Dev Projects/c_sharp_hello_world/c_sharp_hello_world/c_sharp_hello_world/bin/Debug/net9.0/c_sharp_hello_world.dll
+/Users/elcapi/Dev Projects/c_sharp_hello_world/c_sharp_hello_world/c_sharp_hello_world/bin/Debug/net9.0/c_sharp_hello_world.pdb
+/Users/elcapi/Dev Projects/c_sharp_hello_world/c_sharp_hello_world/c_sharp_hello_world/obj/Debug/net9.0/c_sharp_hello_world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elcapi/Dev Projects/c_sharp_hello_world/c_sharp_hello_world/c_sharp_hello_world/obj/Debug/net9.0/c_sharp_hello_world.AssemblyInfoInputs.cache
+/Users/elcapi/Dev Projects/c_sharp_hello_world/c_sharp_hello_world/c_sharp_hello_world/obj/Debug/net9.0/c_sharp_hello_world.AssemblyInfo.cs
+/Users/elcapi/Dev Projects/c_sharp_hello_world/c_sharp_hello_world/c_sharp_hello_world/obj/Debug/net9.0/c_sharp_hello_world.csproj.CoreCompileInputs.cache
+/Users/elcapi/Dev Projects/c_sharp_hello_world/c_sharp_hello_world/c_sharp_hello_world/obj/Debug/net9.0/c_sharp_hello_world.dll
+/Users/elcapi/Dev Projects/c_sharp_hello_world/c_sharp_hello_world/c_sharp_hello_world/obj/Debug/net9.0/refint/c_sharp_hello_world.dll
+/Users/elcapi/Dev Projects/c_sharp_hello_world/c_sharp_hello_world/c_sharp_hello_world/obj/Debug/net9.0/c_sharp_hello_world.pdb
+/Users/elcapi/Dev Projects/c_sharp_hello_world/c_sharp_hello_world/c_sharp_hello_world/obj/Debug/net9.0/c_sharp_hello_world.genruntimeconfig.cache
+/Users/elcapi/Dev Projects/c_sharp_hello_world/c_sharp_hello_world/c_sharp_hello_world/obj/Debug/net9.0/ref/c_sharp_hello_world.dll
